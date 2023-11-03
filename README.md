@@ -35,22 +35,22 @@ python app.py
 2.The application will preprocess the document, generate a summary, and display it in the "Summary" textarea.
 
 ## Supported Document Formats
--PDF
--DOCX
+- PDF
+- DOCX
 
 ## Contributing
 We welcome contributions from the community. If you would like to improve this project, please follow these steps:
 
--Fork the repository.
--Create a new branch for your feature or bug fix.
--Make your changes and ensure the code passes all tests.
--Submit a pull request with a clear description of your changes.
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and ensure the code passes all tests.
+- Submit a pull request with a clear description of your changes.
 
 ## Acknowledgments
--This project uses the Transformers library for text summarization.
--PDF parsing is done using pdfplumber.
--Word document parsing is done using the python-docx library.
--Stopwords and NLP functionality are provided by the NLTK library.
+- This project uses the Transformers library for text summarization.
+- PDF parsing is done using pdfplumber.
+- Word document parsing is done using the python-docx library.
+- Stopwords and NLP functionality are provided by the NLTK library.
 
 ## Contact
 If you have any questions or issues, please feel free to contact Rohith.
