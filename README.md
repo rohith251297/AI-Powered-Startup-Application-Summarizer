@@ -17,7 +17,7 @@ The project is implemented in Python using the Dash web framework for the user i
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/rohith251297/ai-startup-summarizer.git
+git clone https://github.com/rohith251297/AI-Powered-Startup-Application-Summarizer.git
 
 ## Install the required dependencies using pip:
 
