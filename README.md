@@ -1,0 +1,1 @@
+# AI-Powered-Startup-Application-Summarizer
